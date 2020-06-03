@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GPIO_Demo</string>
+    <string name="this_is_button">this is button</string>
+</resources>
